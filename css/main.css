@@ -1,0 +1,21 @@
+/*color para la primera clasee*/
+.first-class{
+	background: purple;
+	
+}
+/*color para la segunda clasee*/
+.economic-class{
+	background:yellow;
+}
+/*esta clase la creamos con JS*/
+.seats{
+	/*lo primero que hacemos es quitar la capasidad e los 
+	div de ser elementos en bloque*/
+	display: inline-block;
+	width: 100px;
+	/*es importante declarar la altura para poder visualizar los elementos 
+	si no se visualizan podriamos pensar que no estamos creando algo*/
+	height: 150px;
+	border: 1px solid black;
+
+}
