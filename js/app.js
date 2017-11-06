@@ -200,4 +200,4 @@ var reasignEconomicZone = function(zone){
  //invocamos a la funcion para que se ejecute
  paintSeat(airlinesSets);
  reserve();
- alert('hola');
+ alert('Bienvenido a este Avion \n Por favor reserve su Asiento.');
